@@ -101,6 +101,7 @@ public class baseClass {
 		} catch (Exception e) {
 			// This block is to catch divide-by-zero error
 			System.out.println("no app pop up");
+			//git push check
 		}
 	}
 
